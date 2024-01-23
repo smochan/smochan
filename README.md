@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Sankat Mochan</h1> -->
 <h1 align="center">Hi , I'm Mochan</h1>
-<h3 align="center">A passionate MERN Stack Developer and currently I'm learning devOps and polishing my existing skills. </h3>
+<h3 align="center">A full stack developer with a passion for building beautiful and functional websites. </h3>
 
 ## 🚀 Languages and Tools:
 
